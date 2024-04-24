@@ -13,5 +13,5 @@ This preprocessing is in the 'DataPreprocessing.ipynb' file.
 
 My final dataset that I use in my report is in the 'cleaned_crashes.csv' file.
 
-Then my report is in the 'BlogPost.ipynb' file. 
+Then my report is in the 'BlogPost.ipynb' file. I have also included the 'BlogPost.html' file.
 
